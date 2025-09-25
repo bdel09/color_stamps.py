@@ -6,7 +6,7 @@ import turtle
 def stamp_colors():
     t = turtle.Turtle()
     t.shape("turtle)
-    for i in range(5);
+    for i in range(5):
         color = input('Enter color (as hex): ')
         t.color(color)     
         t.forward(20)
