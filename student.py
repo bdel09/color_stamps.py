@@ -11,5 +11,6 @@ def stamp_colors():
         t.color(color)     
         t.forward(20)
         t.stamp()
+turtle.done()
 stamp_colors()
   
